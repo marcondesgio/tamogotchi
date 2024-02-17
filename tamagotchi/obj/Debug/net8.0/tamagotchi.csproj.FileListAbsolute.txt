@@ -16,3 +16,4 @@ c:\Users\Diletta\Documents\Projects\Personal\tamogotchi\tamagotchi\obj\Debug\net
 c:\Users\Diletta\Documents\Projects\Personal\tamogotchi\tamagotchi\obj\Debug\net8.0\tamagotchi.pdb
 c:\Users\Diletta\Documents\Projects\Personal\tamogotchi\tamagotchi\obj\Debug\net8.0\tamagotchi.genruntimeconfig.cache
 c:\Users\Diletta\Documents\Projects\Personal\tamogotchi\tamagotchi\obj\Debug\net8.0\ref\tamagotchi.dll
+c:\Users\Diletta\Documents\Projects\Personal\tamogotchi\tamagotchi\bin\Debug\net8.0\Newtonsoft.Json.dll
